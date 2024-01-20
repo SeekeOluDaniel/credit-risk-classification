@@ -1,6 +1,6 @@
 # credit-risk-classification
 
-## Week 20 Challenge Report
+## Credit Risk Analysis Report
 
 ### Overview of the Analysis
 
